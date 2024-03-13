@@ -16,7 +16,7 @@ In this competition, participants are invited to solve the task of predicting th
 
 ---
 
-<a href="https://github.com/DimaDoesCode/ML_DL_Multilabel_Prediction/blob/master/NP_Multilable_Classification.ipynb"> To view the Jupyter Notebook code of the research, click on this link.</a><br>
+<a href="https://github.com/DimaDoesCode/ML_DL_Multilabel_Prediction/blob/master/NP_Multilabel_Classification.ipynb"> To view the Jupyter Notebook code of the research, click on this link.</a><br>
 
 <br>
 
